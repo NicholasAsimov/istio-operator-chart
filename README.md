@@ -4,9 +4,9 @@ Published istio-operator chart from [https://github.com/istio/istio](https://git
 
 ### Publishing a new version
 ```sh
-> cd istio/manifests/charts/istio-operator
+> cd istio/manifests/charts/
 > git checkout 1.6.5
-> helm package .
+> helm package istio-operator
 > mv istio-operator-1.6.0.tgz ~/code/istio-operator-chart/
 > helm repo index ~/code/istio-operator-chart --url https://nicholasasimov.github.io/istio-operator-chart
 ```
