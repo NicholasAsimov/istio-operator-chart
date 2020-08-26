@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   istio-operator:
   - apiVersion: v1
-    created: "2020-07-24T15:47:25.316769155+03:00"
+    created: "2020-08-26T19:28:21.774807054+03:00"
     description: Helm chart for deploying Istio operator
-    digest: 04f800c8c66f495620c77ac775faf67ffb554fc004d09de7d0cc353189788606
+    digest: b4999d28dc79d10308d8ee3fe38ee485ff79b66cc33bc4b8f84c9886817f6e7e
     icon: https://istio.io/latest/favicons/android-192x192.png
     keywords:
     - istio
@@ -16,7 +16,7 @@ entries:
     - https://nicholasasimov.github.io/istio-operator-chart/istio-operator-1.7.0.tgz
     version: 1.7.0
   - apiVersion: v1
-    created: "2020-07-24T15:47:25.316424984+03:00"
+    created: "2020-08-26T19:28:21.774480346+03:00"
     description: Helm chart for deploying Istio operator
     digest: a4ca1674c8a36e23d7ea977442e94acbf708b204fe5057ce0aecaf8e1113bf2f
     icon: https://istio.io/favicons/android-192x192.png
@@ -29,4 +29,4 @@ entries:
     urls:
     - https://nicholasasimov.github.io/istio-operator-chart/istio-operator-1.6.0.tgz
     version: 1.6.0
-generated: "2020-07-24T15:47:25.310300553+03:00"
+generated: "2020-08-26T19:28:21.771818222+03:00"
